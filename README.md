@@ -20,7 +20,7 @@ This was a part of a homework of the Graphs Algorithms lab.
   2. Ensure you have Java Development Kit (JDK) 8 or later installed.
   3. The application will launch a GUI displaying the map of Luxembourg. Interact with the map by selecting a start and destination node, and watch the vehicle animate along the path.
 
-# :file_folder Project structure
+# :file_folder: Project structure
   * :file_folder: `Luxembourg.java` - THis class is the entry point of the application
   * :file_folder: `Graph.java` - This class encapsulates the graph's structure, nodes, and arcs.
   * :file_folder: `MyPanel.java` - This class is responsible for rendering the graph and animating the movement of the vehicle along the calculated path. It handles user input and updates the graphical interface accordingly.
